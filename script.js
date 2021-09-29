@@ -1,7 +1,6 @@
 fetch("https://random-words-api.vercel.app/word")
   .then(data => data.json())
   .then(wordData => {
-    
       const wordt = wordData.word ;
       const definitiont = wordData.definition ;
       const pronunciationt = wordData.pronunciation ;
