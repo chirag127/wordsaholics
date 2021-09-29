@@ -1,5 +1,5 @@
 fetch("https://random-words-api.vercel.app/word")
-  .then(word => word.json())
+  .then(data => data.json())
   .then(wordData => {
     
       const wordt = wordData.word ;
