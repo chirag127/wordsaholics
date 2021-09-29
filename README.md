@@ -10,3 +10,6 @@ Browser extension that gives random slok whenever you click the extension.
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 1. Enable Developer Mode.
 1. Drag the folder anywhere on the page to import it (do not delete the folder afterwards).
+1. Click the "Load unpacked" button that just appeared.
+1.Select the folder where you just extracted the zip.
+
