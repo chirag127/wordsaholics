@@ -1,0 +1,17 @@
+body {
+    width: 250px;
+    height: 250px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+ /*p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 25px;
+    color: rgb(19, 85, 228);
+    border-radius: 10px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}*/
