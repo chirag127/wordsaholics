@@ -12,7 +12,7 @@ Browser extension that gives random word , it's meaning and pronunciation whenev
 1. Drag the folder anywhere on the page to import it (do not delete the folder afterwards). or Click the "Load unpacked" button that just appeared and Select the folder where you just extracted the zip.
 
 #### YOU CAN ALSO USE IT AS A WEBSITE
-1. It will gives random word , it's meaning and pronunciation on reload.
+1. It will give random word, it's meaning and pronunciation on reload.
 1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Getrandomwords/zipball/main).
 1. Unzip the file and you should have a folder.
 1. Open the folder.
