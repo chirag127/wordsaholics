@@ -1,7 +1,7 @@
 # Getrandomwords
 
 
-Browser extension that gives random slok whenever you click the extension. 
+Browser extension that gives random slok whenever you click the extension. Please pin the extension to use it properly.
 
 ### Installation Instructions
 **Google Chrome / Microsoft Edge** 
