@@ -23,4 +23,6 @@ Browser extension that gives random word , it's meaning and pronunciation whenev
 1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Getrandomwords/zipball/main).
 1. Install kiwi browser.
 1. Go to kiwi://extensions/
-1. 
+1. Enable Developer Mode.
+1. Install from zip.
+
