@@ -18,3 +18,9 @@ Browser extension that gives random word , it's meaning and pronunciation whenev
 1. Open the folder.
 1. Click on popup.html , this web page will open in the browser.
 1. Reload to see new word. ( Refer https://www.wikihow.com/Refresh-a-Page for on how to reload the page)
+
+# Install extension in the Mobile
+1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Getrandomwords/zipball/main).
+1. Install kiwi browser.
+1. Go to kiwi://extensions/
+1. 
