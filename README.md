@@ -5,6 +5,8 @@ Browser extension that gives random word , it's meaning and pronunciation whenev
 
 ### Installation Instructions
 
+
+
 #### **Google Chrome / Microsoft Edge in desktop** 
 1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Getrandomwords/zipball/main).
 1. Unzip the file and you should have a folder.
