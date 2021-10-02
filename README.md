@@ -9,14 +9,14 @@ Wordsaholics is a open source browser extension.This browser extension gives ran
 
 
 #### **Google Chrome / Microsoft Edge in desktop** 
-1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Getrandomwords/zipball/main).
+1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/wordsaholics/zipball/main).
 1. Unzip the file and you should have a folder.
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 1. Enable Developer Mode.
 1. Drag the folder anywhere on the page to import it (do not delete the folder afterwards). or Click the "Load unpacked" button that just appeared and Select the unzipped folder for your extension to install it.
 
 #### Install extension in the Mobile
-1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Getrandomwords/zipball/main).
+1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/wordsaholics/zipball/main).
 1. Install kiwi browser.
 1. Go to kiwi://extensions/
 1. Enable Developer Mode.
@@ -24,7 +24,7 @@ Wordsaholics is a open source browser extension.This browser extension gives ran
 
 #### use as a website
 1. It will give random word, it's meaning and pronunciation on reload.
-1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Getrandomwords/zipball/main).
+1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/wordsaholics/zipball/main).
 1. Unzip the file and you should have a folder.
 1. Open the folder.
 1. Click on popup.html , this web page will open in the browser.
