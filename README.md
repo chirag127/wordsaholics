@@ -22,7 +22,7 @@ Wordsaholics is a open source browser extension.This browser extension gives ran
 1. Enable Developer Mode.
 1. Install from zip.
 
-#### use as a website
+#### Use as a website
 1. It will give random word, it's meaning and pronunciation on reload.
 1. Download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/wordsaholics/zipball/main).
 1. Unzip the file and you should have a folder.
