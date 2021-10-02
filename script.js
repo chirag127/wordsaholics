@@ -9,7 +9,7 @@ fetch("https://random-words-api.vercel.app/word")
     const definitionp = document.getElementById("definitionp");
     const pronunciationp = document.getElementById("pronunciationp");
 
-    wordp.innerHTML = "The word is :- " + wordt;
+    wordp.innerHTML = "The new word is :- " + wordt;
     definitionp.innerHTML = "It's definition is :- " + definitiont;
-    pronunciationp.innerHTML = "It's pronunciationt :- " + pronunciationt;
+    pronunciationp.innerHTML = "It's pronunciation is :- " + pronunciationt;
   });
